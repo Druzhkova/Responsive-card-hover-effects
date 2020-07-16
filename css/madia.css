@@ -1,0 +1,9 @@
+@media (max-width: 410px) {
+  .container .card .imgbx {
+    left: 0;
+  }
+
+  .container .card:hover .content {
+    margin-top: -60px;
+  }
+}
