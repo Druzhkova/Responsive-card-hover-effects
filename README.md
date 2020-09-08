@@ -1,4 +1,3 @@
-# Responsive_card_Hover_effects
+# Responsive card hover effects | Html & CSS
 
-<a href="https://viktoriya-druzhkova.github.io/Responsive_card_Hover_effects/">Watch here - CSS Responsive Card Hover Effects | Html & CSS
-</a>
+<a href="https://druzhkova.github.io/Responsive-card-hover-effects/">Watch here</a>
